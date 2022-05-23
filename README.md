@@ -4,6 +4,6 @@ Hello, wellcome.
 
 It's a test.
 
-GitHub Desktop is easy.
+GitHub Desktop is's easy.
 
 ### by LA
